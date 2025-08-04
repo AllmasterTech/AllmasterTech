@@ -2,10 +2,8 @@
 
 <h1> 💫 About Me  </h1>
 
-<a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Summary.svg" /></a>
-
 <h3>
-  - 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web applications<br/>
+  - 🔭 Full-stack developer with 9+ years of experience designing and building scalable, high-performance web applications<br/>
   - 📤 Proven track record of integrating machine learning models and LLM APIs (e.g., OpenAI, LangChain) into production systems to deliver intelligent, data-driven user experiences.<br/>
   - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, DigitalOcean, GCP and Azure<br/>
 </h3>
